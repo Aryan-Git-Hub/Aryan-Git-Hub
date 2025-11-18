@@ -1,4 +1,18 @@
+## Hi there 👋
 
+<!--
+**Aryan-Git-Hub/Aryan-Git-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+-->
+
+- 🔭 Currently Working On: Problem-solving through Data Structures & Algorithms
+- 🌱 Currently Learning: DSA and preparing to explore AI/ML soon
+- 👨‍💻 Web Development: Strong knowledge in full-stack web development with several projects
+- 🤝 Looking to Collaborate On: Web apps, API-based projects, and beginner-friendly ML projects
+- 💬 Ask Me About: JavaScript, React, Node.js, MySQL, DSA concepts
+- 🚀 Future Goal: Build intelligent applications using Machine Learning
+- 📫 Reach Me At: (aryan.hmt1234@gmail.com or https://www.linkedin.com/in/aryan-jain-253674319/)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__aryan____jain__1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-jain-253674319) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan.hmt1234@gmail.com) 
 
